@@ -38,14 +38,14 @@ The goal of this project is to:
 ## 📂 Repository Structure
 
 /temperature-humidity-sensor
-│── /Code # Python & Arduino scripts
-│── /Dashboard # Power BI file and dashboard images
-│── /Data # Raw sensor data (CSV format)
-│── /Docs # Additional documentation
-│── LICENSE # Open-source license (if applicable)
-│── PCB-Design # PCB schematic (if applicable)
-│── README.md # Main project documentation
-│── data-insights.md # Detailed insights and findings
+│── /Code 
+│── /Dashboard
+│── /Data 
+│── /Docs 
+│── LICENSE 
+│── PCB-Design 
+│── README.md
+│── data-insights.md 
 
 ---
 
